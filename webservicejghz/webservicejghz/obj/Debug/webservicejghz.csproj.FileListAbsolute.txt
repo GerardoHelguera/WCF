@@ -1,0 +1,7 @@
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\bin\webservicejghz.dll.config
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\bin\webservicejghz.dll
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\bin\webservicejghz.pdb
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\obj\Debug\webservicejghz.csprojAssemblyReference.cache
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\obj\Debug\webservicejghz.csproj.CoreCompileInputs.cache
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\obj\Debug\webservicejghz.dll
+C:\Users\sergi\source\repos\webservicejghz\webservicejghz\obj\Debug\webservicejghz.pdb
